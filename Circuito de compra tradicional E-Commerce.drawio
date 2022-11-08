@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T02:14:08.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="2cQsGsVhhblTV_CD-lNe" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T03:17:03.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="qFI4L7ULfZvXrIBLTYAS" version="20.1.1" type="github">
   <diagram id="zgEDg3Iq6z1LrukRBS4-" name="Page-1">
-    <mxGraphModel dx="1249" dy="2603" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1141" dy="2532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         </mxCell>
         <mxCell id="2nBfpcRU1XX35dV0teV3-10" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2nBfpcRU1XX35dV0teV3-9">
           <mxGeometry x="0.2833" y="1" relative="1" as="geometry">
-            <mxPoint x="-33" y="-261" as="offset" />
+            <mxPoint x="-16" y="-223" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2nBfpcRU1XX35dV0teV3-2" value="Esta registrado en forma completa?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -42,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2nBfpcRU1XX35dV0teV3-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Carga los siguientes datos&amp;nbsp; del comprador:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Nombre&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Apellido&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- DNI&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Telefono1&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Telefono2&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Fecha de Nacimiento&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Calle del domicilio&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Numero&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Entre calles&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Codigo Postal&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Provincia&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Partido&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Localidad&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Numero de departamento&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Piso&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Observaciones&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="272" width="280" height="280" as="geometry" />
+          <mxGeometry x="-110" y="272" width="287" height="287" as="geometry" />
         </mxCell>
         <mxCell id="2nBfpcRU1XX35dV0teV3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-8" target="2nBfpcRU1XX35dV0teV3-12">
           <mxGeometry relative="1" as="geometry" />
@@ -58,11 +58,11 @@
             <mxPoint x="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-12" target="2nBfpcRU1XX35dV0teV3-19">
+        <mxCell id="2nBfpcRU1XX35dV0teV3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="1024" as="targetPoint" />
+            <mxPoint x="515" y="980" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="844" />
+              <mxPoint x="515" y="801" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -72,137 +72,91 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2nBfpcRU1XX35dV0teV3-12" value="Solicita Factura?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="804" width="80" height="80" as="geometry" />
+          <mxGeometry x="400" y="761" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-14" target="2nBfpcRU1XX35dV0teV3-19">
+        <mxCell id="2nBfpcRU1XX35dV0teV3-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-14">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="977" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="300" y="994" />
-              <mxPoint x="520" y="994" />
+              <mxPoint x="300" y="943" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2nBfpcRU1XX35dV0teV3-14" value="&lt;span style=&quot;&quot;&gt;Ingresar datos Fiscales&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Condicion Fiscal&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- CUIT&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="260" y="894" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="851" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2nBfpcRU1XX35dV0teV3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-19" target="2nBfpcRU1XX35dV0teV3-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2nBfpcRU1XX35dV0teV3-19" value="Mensaje informativo de los medios de pagos disponibles con selector" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1024" width="100" height="100" as="geometry" />
+          <mxGeometry x="460" y="981" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2nBfpcRU1XX35dV0teV3-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-25" target="2nBfpcRU1XX35dV0teV3-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2nBfpcRU1XX35dV0teV3-25" value="Genera el detalle del pedido que contendra:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Q de items x Articulo seleccionados (Carrito)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Descripcion del articulo (Carrito)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ID del articulo&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Carrito)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- ID del cliente&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Monto a pagar&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Domicilio&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Forma de envio seleccionada&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Forma de pago seleccionada&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Tipo de Articulo&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Estado&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1165" width="212" height="212" as="geometry" />
+          <mxGeometry x="390" y="1122" width="212" height="212" as="geometry" />
         </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-32" target="2nBfpcRU1XX35dV0teV3-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-37" target="2nBfpcRU1XX35dV0teV3-39">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2nBfpcRU1XX35dV0teV3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="2nBfpcRU1XX35dV0teV3-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="384" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2nBfpcRU1XX35dV0teV3-34" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2nBfpcRU1XX35dV0teV3-33">
           <mxGeometry x="-0.1535" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-37" target="2nBfpcRU1XX35dV0teV3-41">
+        <mxCell id="2nBfpcRU1XX35dV0teV3-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-37" target="2nBfpcRU1XX35dV0teV3-84">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1420" y="255" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-36" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2nBfpcRU1XX35dV0teV3-35">
-          <mxGeometry x="0.2833" y="1" relative="1" as="geometry">
-            <mxPoint x="-33" y="-261" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-37" value="Esta registrado en forma completa?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="165" width="175" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-39">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1410" y="625" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1000" y="605" />
-              <mxPoint x="1410" y="605" />
+              <mxPoint x="1421" y="383" />
+              <mxPoint x="1421" y="598" />
+              <mxPoint x="1220" y="598" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-39" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Carga los siguientes datos&amp;nbsp; del comprador:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Nombre&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Apellido&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- DNI&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Telefono1&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Telefono2&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Fecha de Nacimiento&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Calle del domicilio&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Numero&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Entre calles&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Codigo Postal&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Provincia&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Partido&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Localidad&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Numero de departamento&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Piso&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Observaciones&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="860" y="305" width="280" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-41" target="2nBfpcRU1XX35dV0teV3-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-41" value="Determinar la forma de envio:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Retiro en el domicilio del Vendedor&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Envio al domicilio registrado&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- A coordinar. (Se pone en contacto con el vendedor).&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="675" width="140" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-46" target="2nBfpcRU1XX35dV0teV3-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-43" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2nBfpcRU1XX35dV0teV3-42">
-          <mxGeometry x="0.0491" y="-3" relative="1" as="geometry">
-            <mxPoint x="8" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-46" target="2nBfpcRU1XX35dV0teV3-50">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1490" y="1105" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1490" y="925" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-45" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2nBfpcRU1XX35dV0teV3-44">
-          <mxGeometry x="-0.7652" y="1" relative="1" as="geometry">
+        <mxCell id="2nBfpcRU1XX35dV0teV3-86" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2nBfpcRU1XX35dV0teV3-85">
+          <mxGeometry x="-0.7773" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-46" value="Solicita Factura?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="885" width="80" height="80" as="geometry" />
+        <mxCell id="2nBfpcRU1XX35dV0teV3-37" value="Ingreso los datos de contacto?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="318" width="175" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-48" target="2nBfpcRU1XX35dV0teV3-50">
+        <mxCell id="2nBfpcRU1XX35dV0teV3-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220.1739130434785" y="661.739130434783" as="targetPoint" />
+            <mxPoint x="961.5263157894738" y="576" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1270" y="1075" />
-              <mxPoint x="1490" y="1075" />
+              <mxPoint x="961" y="598" />
+              <mxPoint x="1220" y="598" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-48" value="&lt;span style=&quot;&quot;&gt;Ingresar datos Fiscales&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Condicion Fiscal&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- CUIT&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="975" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-50">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1480" y="1244.3333333333335" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-50" value="Mensaje informativo de los medios de pagos disponibles con selector" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="1105" width="100" height="100" as="geometry" />
+        <mxCell id="2nBfpcRU1XX35dV0teV3-39" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Carga los siguientes datos&amp;nbsp; del comprador:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Nombre&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Apellido&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Telefono1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Telefono2&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="901" y="455" width="121" height="121" as="geometry" />
         </mxCell>
         <mxCell id="2nBfpcRU1XX35dV0teV3-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-52">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="274.66666666666674" y="22" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-32">
+        <mxCell id="2nBfpcRU1XX35dV0teV3-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-52">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1253" y="47" as="targetPoint" />
+            <mxPoint x="1248.8461538461538" y="54" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2nBfpcRU1XX35dV0teV3-52" value="CARRITO" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="643" y="-260" width="174" height="174" as="geometry" />
         </mxCell>
+        <mxCell id="2nBfpcRU1XX35dV0teV3-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1249.9999999999995" y="180.12359550561814" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2nBfpcRU1XX35dV0teV3-32" value="Compra de Producto Personalizado" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1210" y="55" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-52" target="2nBfpcRU1XX35dV0teV3-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1253" y="47" as="targetPoint" />
-            <mxPoint x="817.0000000000005" y="-173" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="2nBfpcRU1XX35dV0teV3-62" value="Compra de Producto Standard" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="540" y="-709" width="80" height="80" as="geometry" />
@@ -219,11 +173,36 @@
         <mxCell id="2nBfpcRU1XX35dV0teV3-66" value="Compra de Producto Personalizado" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="800" y="-709" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-70" value="Contactar al vendedor para presupuestar" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="1245" width="80" height="80" as="geometry" />
+        <mxCell id="2nBfpcRU1XX35dV0teV3-72" value="Esto dispara un email al comprador y al vendedor con la confirmacion del pedido y el estado pasa a ser confirmado" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="436" y="1355" width="108" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="2nBfpcRU1XX35dV0teV3-72" value="Esto dispara un email con la confirmacion del pedido y el estado pasa a ser confirmado" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="436" y="1398" width="108" height="108" as="geometry" />
+        <mxCell id="2nBfpcRU1XX35dV0teV3-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-77" target="2nBfpcRU1XX35dV0teV3-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1248" y="299" />
+              <mxPoint x="1247" y="299" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2nBfpcRU1XX35dV0teV3-77" value="Solicitar presupuesto" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1203.5" y="186" width="93" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="2nBfpcRU1XX35dV0teV3-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2nBfpcRU1XX35dV0teV3-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220.0526315789475" y="689" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2nBfpcRU1XX35dV0teV3-84" value="Presupuesto confirmado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="631" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2nBfpcRU1XX35dV0teV3-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2nBfpcRU1XX35dV0teV3-89" target="2nBfpcRU1XX35dV0teV3-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2nBfpcRU1XX35dV0teV3-89" value="Genera el detalle del pedido que contendra:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Q de items x Articulo seleccionados (Carrito)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Descripcion del articulo (Carrito)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ID del articulo&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Carrito)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- ID del cliente&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Monto a pagar&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Domicilio&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Forma de envio seleccionada&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Forma de pago seleccionada&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Tipo de Articulo&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Estado&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1114" y="723" width="212" height="212" as="geometry" />
+        </mxCell>
+        <mxCell id="2nBfpcRU1XX35dV0teV3-90" value="Esto dispara un email al comprador y al vendedor con la confirmacion del pedido y el estado pasa a ser confirmado" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="956" width="108" height="108" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
